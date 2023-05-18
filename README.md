@@ -10,7 +10,7 @@ I have put together a few repositories I use in my AWS and DevOPs journey while 
 
 | Repository | Description |
 |------------|-------------|
-| [DevOps Projects](https://github.com/nneyen/DevOps_Projects.git)| Learn basic DevOps in AWS|
+| [DevOps Projects](https://github.com/nneyen/DevOps_Projects.git)| Learn DevOps in AWS. I am using [20 Real Time DevOps Projects](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)  by Imran Teli|
 
 
 
