@@ -11,7 +11,7 @@ I have put together a few repositories I use in my AWS and DevOPs journey while 
 | Repository | Description |
 |------------|-------------|
 | [DevOps Projects](https://github.com/nneyen/DevOps_Projects.git)| Learn basic DevOps in AWS|
-| Cloud Engineering| Different AWS Cloud Projects that teaches you how to use Amazon Services|
+
 
 
 
