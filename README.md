@@ -11,7 +11,7 @@
 
 | Repository | Description |
 |------------|-------------|
-| DevOps Projects| Learn basic DevOps in AWS|
+| [DevOps Projects](https://github.com/nneyen/DevOps_Projects.git)| Learn basic DevOps in AWS|
 | Cloud Engineering| Different AWS Cloud Projects that teaches you how to use Amazon Services|
 
 
