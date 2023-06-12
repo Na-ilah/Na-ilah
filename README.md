@@ -6,7 +6,7 @@
 * 🧑🏾‍🏫 Teacher turned Cloud Engineer 🧑🏾‍💻
 * 📝 I write articles on [Medium](https://medium.com/@nneyenu)
 
-I have put together a few repositories I use in my AWS and DevOPs journey while learning about cloud, if you would like to join me on this journey, these will be a good place to begin
+I have put together a few repositories I use in my AWS and DevOPs journey while learning about cloud, if you would like to join me on this journey, this will be a good place to begin
 
 | Repository | Description |
 |------------|-------------|
